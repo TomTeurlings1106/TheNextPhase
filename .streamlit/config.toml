@@ -1,0 +1,14 @@
+[theme]
+base="dark"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+enableXsrfProtection = false
+
+[global]
+# Disable the "Made with Streamlit" footer, "Share" button and other options
+hideTopNav = true
+hideFooter = true
+
